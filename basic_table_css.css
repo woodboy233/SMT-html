@@ -1,0 +1,21 @@
+table{
+width: 300px;
+border: 1px #000 solid;
+border-collapse: collapse;
+border-spacing: 0px;
+}
+
+th{
+background-color: #731878;
+}
+
+td{
+background-color: #CCC;
+border: 1px #000 solid;
+font-family: Calibri, sans-serif;
+font-weight: bold;
+font-size: 14px; 
+color: #000;
+text-align: right; 
+vertical-align: top;
+}
